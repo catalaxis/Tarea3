@@ -68,4 +68,6 @@ S1 solo almacenara Add(Add(String(hola mundo), Int(2021)),String(julio)).
 PARA ELIMINAR TODO LO GUARDADO EN S1, S2, S3, S4, S5, S6
   Justo al lado de estos botones hay un boton "!", al hacer click por primera vez en este boton se arrojara un mensaje al usuario enunciando que se debe volver a hacer click en "!" para eliminar todo lo que se haya almacenado en las funciones "Save". Esto para evitar que todos los objetos se eliminen por error.
   
+En caso de que exista cualquier duda sobre el uso de la interfaz pueden escribirme a mi correo: m.donoso.ge@gmail.com
+Contestare a la brevedad!
 ESTO ES TODO :)
